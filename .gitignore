@@ -3,5 +3,4 @@ examples
 npm-debug.log
 coverage
 lib
-dist
 typings
